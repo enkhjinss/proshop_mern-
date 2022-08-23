@@ -27,7 +27,7 @@
     "multer": "^1.4.2"
   },
   "engines": {
-    "node": "v18.6.0."
+    "node": "v18.6.0"
 },
   "devDependencies": {
     "concurrently": "^5.3.0",
